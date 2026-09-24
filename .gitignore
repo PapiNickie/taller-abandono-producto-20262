@@ -6,3 +6,4 @@ __pycache__/
 # andamiaje para construir el historial (no forma parte de la entrega)
 _versiones/
 crear_commits.sh
+crear_commits.ps1
