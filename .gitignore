@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# andamiaje para construir el historial (no forma parte de la entrega)
+_versiones/
+crear_commits.sh
